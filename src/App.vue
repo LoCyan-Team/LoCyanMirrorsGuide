@@ -45,6 +45,20 @@
           <highlightjs language="json" :code="example_docker_config"></highlightjs>
         </a-card>
       </div>
+      <a-divider></a-divider>
+      <footer>
+        <span>Copyright © 2024 <a href="https://locyan.cn" target="_blank">LoCyan-Team</a>.</span>
+        <br />
+        <span
+          >镜像站分发的内容版权归原作者所有，本站最终解释权由
+          <a href="https://locyan.cn" target="_blank">LoCyan-Team</a> 所有。</span
+        >
+        <br />
+        <span
+          >联系我们:
+          <a href="https://doc.locyan.cn/app/contact.html" target="_blank">联系方式</a></span
+        >
+      </footer>
     </a-app>
   </a-config-provider>
 </template>
@@ -74,5 +88,11 @@ function openInNewTab(url) {
   width: 100%;
   border: 0;
   margin-top: 1rem;
+}
+
+footer {
+  margin: 2rem;
+  margin-top: 0;
+  padding-bottom: 2rem;
 }
 </style>
