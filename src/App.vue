@@ -30,7 +30,7 @@
           <a-button
             type="link"
             style="padding-inline: 0"
-            v-clipboard="mirror_url"
+            v-clipboard="docker_mirror_url"
             v-clipboard:success="
               () => {
                 notification.success({ message: '已复制', description: '内容已复制到剪切板' })
@@ -67,6 +67,7 @@
 import { notification } from 'ant-design-vue'
 
 const mirror_url = 'https://mirrors.locyan.cn'
+const docker_mirror_url = 'https://docker.mirrors.locyan.cn'
 
 const example_docker_config = `{
   "registry-mirrors": [
