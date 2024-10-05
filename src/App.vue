@@ -47,16 +47,16 @@
       </div>
       <a-divider></a-divider>
       <footer>
-        <span>Copyright © 2024 <a href="https://locyan.cn" target="_blank">LoCyan-Team</a>.</span>
+        <span>Copyright © 2024 <a href="https://locyan.cn" target="_blank">LoCyanTeam</a>.</span>
         <br />
         <span
           >镜像站分发的内容版权归原作者所有，本站最终解释权由
-          <a href="https://locyan.cn" target="_blank">LoCyan-Team</a> 所有。</span
+          <a href="https://locyan.cn" target="_blank">LoCyanTeam</a> 所有。</span
         >
         <br />
         <span
           >联系我们:
-          <a href="https://doc.locyan.cn/app/contact.html" target="_blank">联系方式</a></span
+          <a href="https://doc.locyanfrp.cn/contact" target="_blank">联系方式</a></span
         >
       </footer>
     </a-app>
