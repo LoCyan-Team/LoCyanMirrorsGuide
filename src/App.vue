@@ -56,7 +56,7 @@
         <br />
         <span
           >联系我们:
-          <a href="https://doc.locyanfrp.cn/contact" target="_blank">联系方式</a></span
+          <a href="https://docs.locyanfrp.cn/contact.html" target="_blank">联系方式</a></span
         >
       </footer>
     </a-app>
